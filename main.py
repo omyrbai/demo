@@ -7,6 +7,9 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+#comment No2 this is a remark made by Omir.
+
+
 
 #  this line contains a remark that I just made
 # this is a new line just for example.
