@@ -18,7 +18,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     #1 birinsh comment
     #2 ekinshi komment
-
+    #4 tortinshi komment
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 
