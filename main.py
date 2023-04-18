@@ -1,16 +1,14 @@
-class ReadTxt:
-    def __init__(self):
-        self.words_dict = {}
+import random
 
-    def read_file(self):
-        with open('words.txt') as file:
-            words = file.readlines()
-            for word in words:
-                word = word.replace('\n', '')
-                self.words_dict[word] = ''
-        return self.words_dict
-        # print(self.words_dict)
+number = random.randint(0, 10)
+for x in range(number):
+    if x != 0:
+        print(x)
+
+def print_hi(name):
+    # Use a breakpoint in the code line below to debug your script.
+    print(f'The random number is: {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
-# read_txt_file = ReadTxt()
-# read_txt_file.read_file()
+if __name__ == '__main__':
+    print_hi(name=number)

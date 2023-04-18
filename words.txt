@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 something
 regular
 journal
 gather
+=======
+make
+do
+done
+finish
+start
+begin
+>>>>>>> origin/main
