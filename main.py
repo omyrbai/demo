@@ -1,7 +1,9 @@
 import random
 
 name = random.randint(0, 10)
-
+for x in range(10):
+    if x != 0:
+        print(x)
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
