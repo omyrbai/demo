@@ -26,3 +26,5 @@ if __name__ == '__main__':
 
 
 # Hi there Omyrbai, I pulled your repo and changed the main file ))
+
+#Qanday masele isleymiz?
