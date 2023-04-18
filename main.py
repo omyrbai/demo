@@ -1,7 +1,7 @@
 import random
 
-name = random.randint(0, 10)
-for x in range(10):
+number = random.randint(0, 10)
+for x in range(number):
     if x != 0:
         print(x)
 
@@ -10,7 +10,5 @@ def print_hi(name):
     print(f'The random number is: {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
-
-
 if __name__ == '__main__':
-    print_hi(name=name)
+    print_hi(name=number)
