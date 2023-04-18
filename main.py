@@ -27,4 +27,5 @@ if __name__ == '__main__':
 
 # Hi there Omyrbai, I pulled your repo and changed the main file ))
 
-#Qanday masele isleymiz?
+#koreik bilmedim ekewmiz qaytip maseleni bolisip aliwdi da islep koriw kerek misali ulken project islesek
+#bolisip islewwge boladigo.
